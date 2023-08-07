@@ -46,7 +46,7 @@ http://download.eclipse.org/buildship/updates/e43/releases/1.0
 -- Example-1: gradle clean test -Pbikroy=debug
 -- Example-2: gradle clean test -Pbikroy=ValidateFlowForAdPostFunctionality
 
-
+For more information and the latest updates, contact me at aishwarya.at.tech@gmail.com . Happy Coding...
 
 
 @author-Aishwarya D.
