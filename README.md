@@ -13,7 +13,7 @@ created to provide support or guidance to each and every software entity that co
 
 == What Is New ==
 
-Common practices say in general that; test scripts interact with framework component. This component interacts with
+As per general practices; test scripts interact with framework component. This component interacts with
 specific tool component(selenium here). This tool further establishes communication with Browser(Web App). 
 This bikroy framework implements an additional layer between tool and framework component to abstract away particular
 automation tool. This is a successful attempt to support bikroy framework with Tool Independent Capabilities.
