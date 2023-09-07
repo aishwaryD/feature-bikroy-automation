@@ -1,6 +1,8 @@
 # feature-bikroy-automation
 
+== Update ==
 
+This is an old codebase with legacy readme/write-up. Please adjust your versions, tech stack, and modern IDEs. I recommend using JetBrains IDEs (IntelliJ for Java, DataGrip for DB, WebStorm for JS, PyCharm for Python, etc) for better local development capabilities.
 
 == Description ==
 
